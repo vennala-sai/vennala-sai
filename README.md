@@ -4,9 +4,13 @@
 # 💫 About Me:
 
 
-💼 **My Professional Experience:** I’m a versatile full-stack software engineer with experience in development and quality assurance across enterprise banking, cloud systems, and AI-powered applications. At TD Canada Trust, I streamlined QA automation, improved the accuracy of trade data, and helped ensure compliance with financial regulations. At FDM, I contributed to an AI-powered project management assistant for Royal Bank of Canada using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Ollama, LlamaIndex, ChromaDB, and a Python/MySQL backend. I also built a critical insurance microservice for an internal FDM banking project using Java, Spring Boot, React, and AWS RDS.
+💼 **My Professional Experience:** I’m a versatile full-stack software engineer with experience in development and quality assurance across enterprise banking, cloud systems, and AI-powered applications. 
 
-Previously, at SOTI, I optimized large-scale systems and handled cloud integrations with Solace PubSub+ and Docker. I’ve also mentored young learners as a programming instructor at Code Ninjas, helping them build a strong foundation in coding. With expertise in Java, Spring Boot, SQL, Selenium, manual testing, AI integration, AWS, and Agile methodologies—I focus on delivering scalable, high-quality software solutions.<img width="468" height="122" alt="image" src="https://github.com/user-attachments/assets/8347a715-56b5-427c-82a2-99bef6840960" />
+At TD Canada Trust, I streamlined QA automation, improved the accuracy of trade data, and helped ensure compliance with financial regulations. 
+
+At FDM, I contributed to an AI-powered project management assistant for Royal Bank of Canada using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Ollama, LlamaIndex, ChromaDB, and a Python/MySQL backend. I also built a critical insurance microservice for an internal FDM banking project using Java, Spring Boot, React, and AWS RDS.
+
+Previously, at SOTI, I optimized large-scale systems and handled cloud integrations with Solace PubSub+ and Docker. I’ve also mentored young learners as a programming instructor at Code Ninjas, helping them build a strong foundation in coding. With expertise in Java, Spring Boot, SQL, Selenium, manual testing, AI integration, AWS, and Agile methodologies—I focus on delivering scalable, high-quality software solutions.
  
 📚 **A Graduate from York University** with a Bachelor’s in Computer Science, achieving First Class Standing and Dean’s Honour Roll. My coursework spanned from Data Structures and Algorithms to Software Design, emphasizing Agile methodologies and Object-Oriented Programming.<br>
 
