@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌟 Sai Vennala | Java & Python Developer | Software Engineering Enthusiast
+🌟 Sai Vennala | Java & Python Developer | Software Engineer
 
 # 💫 About Me:
 
